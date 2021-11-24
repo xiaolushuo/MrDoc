@@ -1,3 +1,4 @@
+笔记
 <h1 align="center">MrDoc - Writing documents, Gathering ideas</h1>
 
 <p align="center">Personal and small team notes, documents, knowledge management privatization deployment scheme</p>
